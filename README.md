@@ -41,3 +41,13 @@ Ten projekt zawiera system sprzedaży live i zarządzania zamówieniami. Poniże
 - Domyślne konto testowe:
   - Email: `admin@olaj.pl`
   - Hasło: `admin123`
+  
+  ## Zmiana layoutu panelu admina (28.07.2025)
+
+- Zmieniono styl panelu na jasny (light UI),
+- Odchudzono topbar i footer – 50% niższy top, 33% niższy dół,
+- Sidebar z jaśniejszym tłem (`#dcdcdc`) i czarnym tekstem,
+- Footer przyklejony do dołu ekranu (flexbox),
+- Kod CSS zaktualizowany w `assets/styles.css`.
+
+Commit: `Nowy layout panelu admina – jasny motyw, odchudzony topbar i footer`
