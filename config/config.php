@@ -1,0 +1,2 @@
+<?php
+// config bazy danych

@@ -1,0 +1,2 @@
+<?php
+// Klasa zarządzająca zamówieniami
